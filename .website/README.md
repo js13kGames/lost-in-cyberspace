@@ -1,4 +1,7 @@
 ---
+genres:
+  - party
+  - puzzle
 post: https://web.archive.org/web/20231201041741/https://zofiakorcz.pl/lost-in-cyberspace-vr
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
